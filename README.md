@@ -129,7 +129,7 @@ Durant la résolution pas croyable de ce projet GIT/GIT HUB avec ses trois Exerc
 - Résolution de Conflits : Capacité à identifier et résoudre les problèmes de merge
 - Collaboration : Utilisation des Pull Requests pour le travail d'équipe
 # Bonnes Pratiques Identifiées
-- Commits atomiques avec messages descriptifs
+- Commits automatiques avec messages descriptifs
 - Validation régulière avec git status
 - Résolution immédiate des conflits
 
