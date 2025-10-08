@@ -132,6 +132,5 @@ Durant la résolution pas croyable de ce projet GIT/GIT HUB avec ses trois Exerc
 - Commits atomiques avec messages descriptifs
 - Validation régulière avec git status
 - Résolution immédiate des conflits
-- Documentation des processus
 
 Je suis à la fin de ma présentation. Merci !
