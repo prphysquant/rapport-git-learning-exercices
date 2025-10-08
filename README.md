@@ -112,7 +112,8 @@ git push
 Repository: [https://github.com/prphysquant/git-learning-3](https://github.com/prphysquant/git-learning-3)
 
 
-## Synthèse de mon apprentissage durant la résolution pas croyable de ce projet GIT/GIT HUB avec ses trois Exercices.
+## Synthèse de mon apprentissage 
+Durant la résolution pas croyable de ce projet GIT/GIT HUB avec ses trois Exercices.
 # Concepts Clés Maîtrisés
 - Repository : Dépôt contenant l'historique complet du projet
 - Commit : Point de sauvegarde dans l'historique Git
