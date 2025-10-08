@@ -14,7 +14,7 @@ Dans ce README.md, j'ai inclu les liens vers les corrigés des 3 Exercices. Au b
 - [Exercice 1: Premier Dépôt/Commit Simple](#exercice-1-premier-dépôtcommit-simple)
 - [Exercice 2: Branching/Merging](#exercice-2-branchingmerging)
 - [Exercice 3: Gestion des Conflits](#exercice-3-gestion-des-conflits)
-- [Synthèse d'Apprentissage](#synthèse-dapprentissage)
+- [Synthèse d'Apprentissage](#synthèse-de-mon-apprentissage)
 
 
 ## Exercice 1: Premier Dépôt/Commit Simple
